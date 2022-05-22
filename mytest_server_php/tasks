@@ -1,0 +1,9 @@
+
+
+- Link (único por usuário, não permitindo cópia, usar um hash MD5 para aumentar a segurança)
+
+- Gulp ou Grunt para Automação de Tarefas
+
+- Aplicativo Móvel: React Native
+
+- Além de desenvolver a API em PHP, reescreva a mesma em Node.Js
